@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
         <caller_access/>
@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-17 18:55:27</sys_created_on>
         <sys_id>4acfe21b8d0312107f446e34daa1b3a8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Wishlist Wish Item</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Wish Item</sys_name>
         <sys_package display_value="WishList" source="x_snc_wishlist">67eda6938d0312107f446e34daa1b311</sys_package>
         <sys_policy/>
         <sys_scope display_value="WishList">67eda6938d0312107f446e34daa1b311</sys_scope>
         <sys_update_name>sys_db_object_4acfe21b8d0312107f446e34daa1b3a8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-17 18:55:27</sys_updated_on>
+        <sys_updated_on>2025-01-17 19:24:14</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
