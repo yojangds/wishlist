@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="com_snc_core_automation_connection_credential_glideencrypter">550cd0b07722201099808d1168106121</crypto_module>
+        <crypto_spec display_value="com_snc_core_automation_connection_credential_glideencrypter --- Symmetric Key Wrapping/Unwrapping">110cd0b07722201099808d1168106123</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>e3f48dc3c3cfd6d084b3f9d60501310a</owner>
+        <policy_name>AutoGen-script-5e109ee33732130003a08fb77e41f195-global.com_snc_core_automation_connection_credential_glideencrypter</policy_name>
+        <result>track</result>
+        <script_hash>irXKxYuGkN9FHc+dPKwkTa9MBEaUx5s0xPEz310NKIY=</script_hash>
+        <script_table>sys_script</script_table>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-17 19:05:15</sys_created_on>
+        <sys_id>a5027e9b8d0312107f446e34daa1b3be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="WishList" source="x_snc_wishlist">67eda6938d0312107f446e34daa1b311</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">67eda6938d0312107f446e34daa1b311</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_a5027e9b8d0312107f446e34daa1b3be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-17 19:05:15</sys_updated_on>
+        <target_role/>
+        <target_scope/>
+        <target_script>5e109ee33732130003a08fb77e41f195</target_script>
+        <type>1</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>
